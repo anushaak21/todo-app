@@ -25,4 +25,6 @@ It allows users to add and view their tasks in a clean web interface.
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+   python app.py
+
 
